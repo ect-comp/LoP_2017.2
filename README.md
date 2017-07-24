@@ -26,7 +26,8 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 
 ## Aulas Práticas
 
-* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0) <!---
+* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0) 
+<!---
 * [Expressões, variáveis, tipos de dados e entrada e saída](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab1)
 * [Estruturas condicionais](lab2/README.md)
 * [Estruturas de repetição condicionais](lab3/README.md)
@@ -34,7 +35,8 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 
 ## Slides de Aula
 
-* 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ) <!---
+* 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ) 
+<!---
 * 16/02/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
 * 21/02/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
 * 23/02/2017 - [Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/4dYfps)
