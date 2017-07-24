@@ -2,66 +2,16 @@
 
 Página para apresentar os códigos do componente curricular ECT2203 - Lógica de Programação.
 
-<!---
-## Aulas Teóricas
 
-* [Introdução a Algoritmos](https://github.com/orivaldosantana/ECT2203LoP/tree/master/aula2)
-* [Expressões, variáveis, tipos de dados e entrada e saída](https://github.com/orivaldosantana/ECT2203LoP/tree/master/parte3)
-* [Estrutura Condicional, Parte I](parte4/A)
-* [Estrutura Condicional - Exercícios, Parte II](parte4/B)
-* [Estrutura Condicional, Parte III](parte4/C)
-* [Estrutura Condicional - Exercícios, Parte IV](parte4/D)
-* [Repetição Condicional I](parte5/A)
-* [Repetição Condicional II](parte5/B)
-* [Repetição Condicional III](parte5/C)
-* [Repetição Condicional IV](parte5/D)
-* [Repetição Contada I](parte5/E)
-* [Repetição Contada II](parte5/F)
-* [Repetição Contada III](parte5/G)
-* [Repetição Contada IV](parte5/H)
-* [Vetor II](parte6/B)
-* [Vetor III](parte6/C)
-
---->
 
 ## Aulas Práticas
 
 * [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0) 
-<!---
-* [Expressões, variáveis, tipos de dados e entrada e saída](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab1)
-* [Estruturas condicionais](lab2/README.md)
-* [Estruturas de repetição condicionais](lab3/README.md)
----> 
+
 
 ## Slides de Aula
 
 * 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ) 
-<!---
-* 16/02/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
-* 21/02/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
-* 23/02/2017 - [Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/4dYfps)
-* 02/03/2017 - [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
-* 07/03/2017 - [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
-* 09/03/2017 - [Estrutura Condicional Parte I](https://goo.gl/rRRrol)
-* 14/03/2017 - [Exercícios - Estrutura Condicional Parte II](https://goo.gl/iQdlGa)
-* 16/03/2017 - [Operadores Lógicos - Estrutura Condicional Parte III](https://goo.gl/vI592o)
-* 21/03/2017 - [Exercícios - Estrutura Condicional Parte IV](https://goo.gl/7egJPc)
-* 23/03/2017 - [Repetição Condicional I](https://goo.gl/bWt1iV)
-* 28/03/2017 - [Repetição Condicional, Exercícios](https://goo.gl/FXjkUs) 
-* 30/03/2017 - [Divulgação do Projeto](https://goo.gl/fIKTsr)
-* 04/04/2017 - [Repetição Condicional, Aplicações I](https://goo.gl/jcwriL)
-* 06/04/2017 - [Repetição Condicional, Aplicações II](https://goo.gl/lTrXDQ)
-* 11/04/2017 - Revisão 
-* 18/04/2017 - Prova I, escrita 
-* 20/04/2017 - Espectativa de resposta da Prova I
-* 25/04/2017 - [Laço Contado I](https://goo.gl/Jnqz3c)
-* 27/04/2017 - [Laço Contado II,  Algoritmos Tradicionais](https://goo.gl/CVSzoM) 
-* 02/05/2017 - [Laço contado III, Algoritmo do trono](https://goo.gl/sKaF2Y)
-* 04/05/2017 - [Laço contado IV, Exercícios](https://goo.gl/YrsRKs) 
-* 09/05/2017 - [Vetor I](https://goo.gl/EkPNSL)
-* 11/05/2017 - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
-* 16/05/2017 - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
---->
 
 ## Convertendo
 
