@@ -1,4 +1,4 @@
-# ECT2203 - Lógica de Programação (LoP)
+# ECT2203 - Lógica de Programação (LoP) 2017.2
 
 Página para apresentar os códigos do componente curricular ECT2203 - Lógica de Programação.
 
@@ -26,14 +26,15 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 
 ## Aulas Práticas
 
-* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0)
+* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0) <!---
 * [Expressões, variáveis, tipos de dados e entrada e saída](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab1)
 * [Estruturas condicionais](lab2/README.md)
 * [Estruturas de repetição condicionais](lab3/README.md)
+---> 
 
 ## Slides de Aula
 
-* 14/02/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ)
+* 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ) <!---
 * 16/02/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
 * 21/02/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
 * 23/02/2017 - [Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/4dYfps)
@@ -58,7 +59,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 * 09/05/2017 - [Vetor I](https://goo.gl/EkPNSL)
 * 11/05/2017 - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
 * 16/05/2017 - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
-
+--->
 
 ## Convertendo
 
