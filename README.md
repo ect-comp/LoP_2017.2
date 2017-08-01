@@ -6,12 +6,14 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 
 ## Aulas Práticas
 
-* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0) 
+* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0)
 
 
 ## Slides de Aula
 
-* 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ) 
+* 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ)
+* 26/02/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
+* 31/02/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
 
 ## Convertendo
 
@@ -19,9 +21,9 @@ O link a seguir apresenta uma página explicando como converter para JavaScript 
 
 ## Tutorial sobre Processing com JavaScript
 
-Tutorial demonstrando como usar as principais funções relacionadas ao trabalho prático da Unidade III. 
+Tutorial demonstrando como usar as principais funções relacionadas ao trabalho prático da Unidade III.
 
-* [Clique aqui.](tutorial) 
+* [Clique aqui.](tutorial)
 
 ## Vídeos Motivacionais
 
@@ -56,7 +58,7 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 ### Aplicativos
 
-* JS Run, [https://play.google.com](https://play.google.com/store/apps/details?id=com.mia.jsrun&hl=pt_BR) 
+* JS Run, [https://play.google.com](https://play.google.com/store/apps/details?id=com.mia.jsrun&hl=pt_BR)
 * AnWriter, [https://play.google.com](https://play.google.com/store/apps/details?id=com.ansm.anwriter&hl=pt_BR)
 
 ### Tutoriais
@@ -72,11 +74,11 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 * Phaser, https://phaser.io/
 
-### Sprites para Jogos 
+### Sprites para Jogos
 
 * *Game Art 2D*, http://www.gameart2d.com/freebies.html
-* *Open Game Arte*, https://opengameart.org/ 
-* *Spriters Resource*, https://www.spriters-resource.com/ 
+* *Open Game Arte*, https://opengameart.org/
+* *Spriters Resource*, https://www.spriters-resource.com/
 
 ## Dicas
 
