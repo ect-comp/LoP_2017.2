@@ -12,8 +12,9 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 ## Slides de Aula
 
 * 24/07/2017 - [Apresentação e planejamento](https://goo.gl/kxjSEQ)
-* 26/02/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
-* 31/02/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
+* 26/07/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
+* 31/07/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
+* 02/08/2017 - [Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/4dYfps)
 
 ## Convertendo
 
