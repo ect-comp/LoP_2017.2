@@ -66,6 +66,7 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 * Tutorial javascript w3schools, <http://www.w3schools.com/js/default.asp>
 * Guia javascript da MDN (Mozilla Developr Network), <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction>
+* Ferramenta de controle de versão de códigos e colaboração, Git, http://willianjusten.teachable.com/p/git-e-github-para-iniciantes 
 
 ### Processing
 
