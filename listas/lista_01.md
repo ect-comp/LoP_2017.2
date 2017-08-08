@@ -54,22 +54,22 @@ como entrada sempre será posterior à primeira.
 
 [Q17] Implemente um programa que recebe um número real correspondente a uma quantia monetária expressa em reais. O programa deve expressar este valor monetário em cédulas e moedas de tal forma a minimizar a quantidade de itens correspondente ao troco. Por exemplo, R$27,47 corresponde a 2 cédulas de R$10, 1 cédula de R$5, 1 cédula de R$2, 1 moeda de R$0,25, 2 moedas de R$0,10 e 2 moedas de R$0,1. Exemplo de execução:
 
-Entre com o valor de troco: 27.47
-Seu troco eh:
-0 cédula(s) de R$100
-0 cédula(s) de R$50
-0 cédula(s) de R$20
-2 cédula(s) de R$10
-1 cédula(s) de R$5
-1 cédula(s) de R$2
-0 moeda(s) de R$1
-0 moeda(s) de R$0.50
-1 moeda(s) de R$0.25
-2 moeda(s) de R$0.10
-0 moeda(s) de R$0.05
-2 moeda(s) de R$0.01
-Extra: Se você já conhece o comando condicional, faça com que o
-programa só escreva os itens que possuam pelo menos 1 nota/moeda.
+Entre com o valor de troco: 27.47 <br>
+Seu troco eh: <br>
+0 cédula(s) de R$100 <br>
+0 cédula(s) de R$50 <br>
+0 cédula(s) de R$20 <br>
+2 cédula(s) de R$10 <br>
+1 cédula(s) de R$5 <br>
+1 cédula(s) de R$2 <br>
+0 moeda(s) de R$1 <br>
+0 moeda(s) de R$0.50 <br>
+1 moeda(s) de R$0.25 <br>
+2 moeda(s) de R$0.10 <br>
+0 moeda(s) de R$0.05 <br>
+2 moeda(s) de R$0.01 <br>
+
+Extra: Se você já conhece o comando condicional, faça com que o programa só escreva os itens que possuam pelo menos 1 nota/moeda.
 
 [Q18] Um amigo deseja trocar o piso de sua casa, mas ele está com problemas para calcular quantas peças (medindo 30cm x 30cm cada) são necessárias em cada um dos cômodos. Você, como programador, percebeu que esse problema é muito simples e se ofereceu para ajudar. Assim, você deve escrever um programa que recebe dois números reais representando as
 dimensões em metros do cômodo (considere o cômodo retangular) e calcula quantas peças serão necessárias para trocar todo o piso do cômodo. Observação: o resto de peças cortadas são descartadas.
