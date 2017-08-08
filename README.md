@@ -6,7 +6,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 
 ## Aulas Práticas
 
-* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0)
+* [Intordução às Ferramentas](https://github.com/LoP-ECT2203/2017.2/wiki/Criando-P%C3%A1ginas-WEB)
 
 
 ## Slides de Aula
@@ -15,8 +15,30 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 * 26/07/2017 - [Algortitmos e Lógica](https://goo.gl/sy6eGC)
 * 31/07/2017 - [Representações de Algoritmos](https://goo.gl/Ci29jy)
 * 02/08/2017 - [Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/4dYfps)
+* 07/08/2017 - [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
+* 09/08/2017 - [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
+* 14/08/2017 - [Estrutura Condicional Parte I](https://goo.gl/rRRrol)
+*  - [Exercícios - Estrutura Condicional Parte II](https://goo.gl/iQdlGa)
+*  - [Operadores Lógicos - Estrutura Condicional Parte III](https://goo.gl/vI592o)
+*  - [Exercícios - Estrutura Condicional Parte IV](https://goo.gl/7egJPc)
+*  - [Repetição Condicional I](https://goo.gl/bWt1iV)
+*  - [Repetição Condicional, Exercícios](https://goo.gl/FXjkUs) 
+*  - [Divulgação do Projeto](https://goo.gl/fIKTsr)
+*  - [Repetição Condicional, Aplicações I](https://goo.gl/jcwriL)
+*  - [Repetição Condicional, Aplicações II](https://goo.gl/lTrXDQ)
+*  - Revisão 
+*  - Prova I, escrita 
+*  - Espectativa de resposta da Prova I
+*  - [Laço Contado I](https://goo.gl/Jnqz3c)
+*  - [Laço Contado II,  Algoritmos Tradicionais](https://goo.gl/CVSzoM) 
+*  - [Laço contado III, Algoritmo do trono](https://goo.gl/sKaF2Y)
+*  - [Laço contado IV, Exercícios](https://goo.gl/YrsRKs) 
+*  - [Vetor I](https://goo.gl/EkPNSL)
+*  - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
+*  - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
 
-## Convertendo
+
+## Material de Apoio - Sala de Aula
 
 O link a seguir apresenta uma página explicando como converter para JavaScript os principais comandos vistos em sala de aula: [Convertendo Para JavaScript](https://github.com/orivaldosantana/ECT2203LoP/tree/master/convertendo)
 
@@ -66,6 +88,7 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 * Tutorial javascript w3schools, <http://www.w3schools.com/js/default.asp>
 * Guia javascript da MDN (Mozilla Developr Network), <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction>
+* Ferramenta de controle de versão de códigos e colaboração, Git, http://willianjusten.teachable.com/p/git-e-github-para-iniciantes 
 
 ### Processing
 
