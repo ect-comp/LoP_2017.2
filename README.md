@@ -7,7 +7,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 ## Aulas Práticas
 
 * [Intordução às Ferramentas](https://github.com/LoP-ECT2203/2017.2/wiki/Criando-P%C3%A1ginas-WEB)
-* [Laboratório 1]
+* [Laboratório 1](listas/lista_01.md)
 
 
 ## Slides de Aula
@@ -23,17 +23,17 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 *  - [Operadores Lógicos - Estrutura Condicional Parte III](https://goo.gl/vI592o)
 *  - [Exercícios - Estrutura Condicional Parte IV](https://goo.gl/7egJPc)
 *  - [Repetição Condicional I](https://goo.gl/bWt1iV)
-*  - [Repetição Condicional, Exercícios](https://goo.gl/FXjkUs) 
+*  - [Repetição Condicional, Exercícios](https://goo.gl/FXjkUs)
 *  - [Divulgação do Projeto](https://goo.gl/fIKTsr)
 *  - [Repetição Condicional, Aplicações I](https://goo.gl/jcwriL)
 *  - [Repetição Condicional, Aplicações II](https://goo.gl/lTrXDQ)
-*  - Revisão 
-*  - Prova I, escrita 
+*  - Revisão
+*  - Prova I, escrita
 *  - Espectativa de resposta da Prova I
 *  - [Laço Contado I](https://goo.gl/Jnqz3c)
-*  - [Laço Contado II,  Algoritmos Tradicionais](https://goo.gl/CVSzoM) 
+*  - [Laço Contado II,  Algoritmos Tradicionais](https://goo.gl/CVSzoM)
 *  - [Laço contado III, Algoritmo do trono](https://goo.gl/sKaF2Y)
-*  - [Laço contado IV, Exercícios](https://goo.gl/YrsRKs) 
+*  - [Laço contado IV, Exercícios](https://goo.gl/YrsRKs)
 *  - [Vetor I](https://goo.gl/EkPNSL)
 *  - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
 *  - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
@@ -89,7 +89,7 @@ Tutorial demonstrando como usar as principais funções relacionadas ao trabalho
 
 * Tutorial javascript w3schools, <http://www.w3schools.com/js/default.asp>
 * Guia javascript da MDN (Mozilla Developr Network), <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction>
-* Ferramenta de controle de versão de códigos e colaboração, Git, http://willianjusten.teachable.com/p/git-e-github-para-iniciantes 
+* Ferramenta de controle de versão de códigos e colaboração, Git, http://willianjusten.teachable.com/p/git-e-github-para-iniciantes
 
 ### Processing
 
