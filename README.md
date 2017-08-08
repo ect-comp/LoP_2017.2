@@ -6,7 +6,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 
 ## Aulas Práticas
 
-* [Intordução às Ferramentas](https://github.com/orivaldosantana/ECT2203LoP/tree/master/lab0)
+* [Intordução às Ferramentas](https://github.com/LoP-ECT2203/2017.2/wiki/Criando-P%C3%A1ginas-WEB)
 
 
 ## Slides de Aula
@@ -38,7 +38,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 *  - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
 
 
-## Convertendo
+## Material de Apoio - Sala de Aula
 
 O link a seguir apresenta uma página explicando como converter para JavaScript os principais comandos vistos em sala de aula: [Convertendo Para JavaScript](https://github.com/orivaldosantana/ECT2203LoP/tree/master/convertendo)
 
