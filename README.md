@@ -7,6 +7,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 ## Aulas Práticas
 
 * [Intordução às Ferramentas](https://github.com/LoP-ECT2203/2017.2/wiki/Criando-P%C3%A1ginas-WEB)
+* [Laboratório 1]
 
 
 ## Slides de Aula
