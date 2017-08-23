@@ -19,24 +19,33 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 * 07/08/2017 - [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
 * 09/08/2017 - [Exercícios: Expressões, variáveis, tipos de dados, e entrada e saída](https://goo.gl/qXUcH8)
 * 14/08/2017 - [Estrutura Condicional Parte I](https://goo.gl/rRRrol)
-*  - [Exercícios - Estrutura Condicional Parte II](https://goo.gl/iQdlGa)
-*  - [Operadores Lógicos - Estrutura Condicional Parte III](https://goo.gl/vI592o)
-*  - [Exercícios - Estrutura Condicional Parte IV](https://goo.gl/7egJPc)
-*  - [Repetição Condicional I](https://goo.gl/bWt1iV)
-*  - [Repetição Condicional, Exercícios](https://goo.gl/FXjkUs)
-*  - [Divulgação do Projeto](https://goo.gl/fIKTsr)
-*  - [Repetição Condicional, Aplicações I](https://goo.gl/jcwriL)
-*  - [Repetição Condicional, Aplicações II](https://goo.gl/lTrXDQ)
-*  - Revisão
-*  - Prova I, escrita
-*  - Espectativa de resposta da Prova I
-*  - [Laço Contado I](https://goo.gl/Jnqz3c)
-*  - [Laço Contado II,  Algoritmos Tradicionais](https://goo.gl/CVSzoM)
-*  - [Laço contado III, Algoritmo do trono](https://goo.gl/sKaF2Y)
-*  - [Laço contado IV, Exercícios](https://goo.gl/YrsRKs)
-*  - [Vetor I](https://goo.gl/EkPNSL)
-*  - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
-*  - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
+* 16/08/2017 - [Exercícios - Estrutura Condicional Parte II](https://goo.gl/iQdlGa)
+* 21/08/2017 - [Operadores Lógicos - Estrutura Condicional Parte III](https://goo.gl/vI592o)
+* 23/08/2017 - [Exercícios - Estrutura Condicional Parte IV](https://goo.gl/7egJPc)
+* 28/08/2017 - [Repetição Condicional I](https://goo.gl/bWt1iV)
+* 30/08/2017 - [Repetição Condicional, Exercícios](https://goo.gl/FXjkUs)
+* 04/09/2017 - [Repetição Condicional, Aplicações I](https://goo.gl/jcwriL)
+* 06/09/2017 - [Repetição Condicional, Aplicações II](https://goo.gl/lTrXDQ)
+* 11/09/2017 - [Divulgação do Projeto](https://goo.gl/fIKTsr)
+* 13/09/2017 - Revisão, Prova I
+* 18/09/2017 - Exemplos de códigos para o Trabalho
+* **18/09/2017 e 25/09/2017 - Prova I**
+* 20/09/2017 - Espectativa de resposta da Prova I
+* 25/09/2017 - [Laço Contado I](https://goo.gl/Jnqz3c)
+* 27/09/2017 - [Laço Contado II,  Algoritmos Tradicionais](https://goo.gl/CVSzoM)
+* 02/10/2017 - [Laço contado III, Algoritmo do trono](https://goo.gl/sKaF2Y)
+* 04/10/2017 - [Laço contado IV, Exercícios](https://goo.gl/YrsRKs)
+* 09/10/2017 - [Vetor I](https://goo.gl/EkPNSL)
+* 11/10/2017 - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
+* 16/10/2017 - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
+* 18/10/2017 - Vetor IV
+* 23/10/2017 - Exemplos de Códigos para o Trabalho
+* 25/10/2017 - Exemplos de Códigos para o Trabalho
+* 30/10/2017 - Funções
+* 01/11/2017 - Revisão, Prova II
+* 06/11/2017 - Exemplos de Códigos para o Trabalho
+* **06/11/2017 e 13/11/2017 - Prova II**
+* 13/11/2017 - Exemplos de Códigos para o Trabalho
 
 
 ## Material de Apoio - Sala de Aula
