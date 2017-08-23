@@ -45,7 +45,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 * 01/11/2017 - Revisão, Prova II
 * 06/11/2017 - Exemplos de Códigos para o Trabalho
 * **06/11/2017 e 13/11/2017 - Prova II**
-* 13/11/2017 - Exemplos de Códigos para o Trabalho
+* 13/11/2017 - Exemplos de Códigos para o Trabalho 
 
 
 ## Material de Apoio - Sala de Aula
