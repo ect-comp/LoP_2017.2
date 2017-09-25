@@ -56,7 +56,7 @@ O link a seguir apresenta uma página explicando como converter para JavaScript 
 
 Tutorial demonstrando como usar as principais funções relacionadas ao trabalho prático da Unidade III.
 
-* [Clique aqui.](tutorial)
+* [Clique aqui.](https://github.com/orivaldosantana/ECT2203LoP/tree/master/tutorial)
 
 ## Vídeos Motivacionais
 
