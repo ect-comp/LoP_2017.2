@@ -38,7 +38,7 @@ Página para apresentar os códigos do componente curricular ECT2203 - Lógica d
 * 09/10/2017 - [Vetor I](https://goo.gl/EkPNSL)
 * 11/10/2017 - [Vetor II, Estrutura de dados, Ordenação](https://goo.gl/QKA25B)
 * 16/10/2017 - [Vetor III, Exercícios](https://goo.gl/u5OKnH)
-* 18/10/2017 - Vetor IV
+* 18/10/2017 - [Vetor IV](https://goo.gl/6prGct)
 * 23/10/2017 - Exemplos de Códigos para o Trabalho
 * 25/10/2017 - Exemplos de Códigos para o Trabalho
 * 30/10/2017 - Funções
